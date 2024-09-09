@@ -52,7 +52,7 @@ Link: https://drive.google.com/drive/folders/1W3iMpkehng7ADXmhz9pPvmgFQBayq22t
 
 ## How It Works
 
-Our model uses a deep learning architecture to colorize grayscale SAR images by learning from paired SAR and optical data. The model is built using convolutional and upsampling layers to predict AB color channels in the LAB color space, which are then combined with the grayscale L channel to form an RGB image. For a more detailed explanation, refer to the [model architecture document]().
+Our model uses a deep learning architecture to colorize grayscale SAR images by learning from paired SAR and optical data. The model is built using convolutional and upsampling layers to predict AB color channels in the LAB color space, which are then combined with the grayscale L channel to form an RGB image. For a more detailed explanation, refer to the [[model architecture document](https://github.com/SharathK4/SAR-Imagery-Colorization/blob/main/SIH2024_SOLANA_Presentation.pptx)]().
 
 
 
